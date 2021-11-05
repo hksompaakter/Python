@@ -1,4 +1,4 @@
-a=20
+'''a=20
 b=30
 c=10
 
@@ -9,4 +9,5 @@ elif b>a:
     if b>c:
         print(b)
 else:
-    print(c)
+    print(c)'''
+
