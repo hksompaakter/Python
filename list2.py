@@ -1,3 +1,4 @@
 subjects=["Ami","tmi","she"]
-subjects.insert(2,"apni")
-print(subjects)
+subjects2=subjects.copy()
+print(subjects2)
+
